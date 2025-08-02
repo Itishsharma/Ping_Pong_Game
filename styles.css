@@ -12,6 +12,8 @@
         flex-direction: column;
         position: fixed;
         width: 100%;
+        background-color: rgb(228, 235, 253);
+        
     }
 
     h1 {
@@ -19,4 +21,13 @@
         font-family: 'Playfair Display', serif;
         font-size: 2.5rem;
         margin-bottom: 20px;
+    
+    }
+
+    p {
+        color: black;
+        font-family: 'Playfair Display', serif;
+        font-size: larger;
+        
+        
     }
